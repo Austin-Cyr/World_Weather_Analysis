@@ -1,8 +1,11 @@
 #adding config.py file
 config.py
+Weather_Database/config.py
+Weather_Database/Vacation_Intinerary/config.py
+Weather_Database/Vacation_Search/congig.py
 
 #adding additional files
-API_practice.ipynb_
+API_practice.ipynb
 random_numbers.ipynb
 
 # Byte-compiled / optimized / DLL files
